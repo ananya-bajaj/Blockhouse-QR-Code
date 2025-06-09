@@ -1,4 +1,4 @@
-# Blockhouse-QR-Code
+# Mini QR Project
 Code Snippet based on the paper - Cross-Impact of Order Flow Imbalance in Equity Markets
 
 Constructing different OFI features and producing one value per timestamp of the LOB data:
